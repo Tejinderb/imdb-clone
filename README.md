@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Netlify Link
-(imdbpictures.netlify.app)
+[imdbpictures.netlify.app]
 
 ## Available Scripts
 
